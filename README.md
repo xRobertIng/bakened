@@ -1,7 +1,7 @@
 ># PROYECTO README.MD
 >
 >**Proyecto ElectivaDisciplinar II -Backend**.
->- Integrantes:
+>- Integrante:
 >   - Roberto Rodriguez @xRobertIng(<https://github.com/xRobertIng>)
 >   
 >   
